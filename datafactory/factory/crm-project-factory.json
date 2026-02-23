@@ -1,0 +1,9 @@
+{
+	"name": "crm-project-factory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d8eb8eeb-b675-45c3-8773-6b53d316fccf",
+		"tenantId": "c09c8ef3-db08-4f4f-a9f8-4ef34a33beda"
+	}
+}
